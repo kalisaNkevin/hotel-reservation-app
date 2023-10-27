@@ -1,0 +1,25 @@
+# Node modules and npm packages
+node_modules/
+.angular/
+# Compiled output
+dist/
+tmp/
+out-tsc/
+
+# Dependency directories
+.libs/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Logs and testing files
+npm-debug.log
+yarn-error.log
+test.ts
+*.log
+
+# Environment variables
+.env
+.env.prod
